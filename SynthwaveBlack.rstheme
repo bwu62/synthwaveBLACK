@@ -784,7 +784,7 @@
 }
 .rstudio-themes-flat.rstudio-themes-dark-menus .ace_editor.ace_autocomplete {
    background: #2f3941;
-   border: solid 1px #4e5c68 !important;
+   border: solid 1px #000000 !important;
    color: #f0f0f0;
 }
 
