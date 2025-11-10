@@ -24,7 +24,7 @@
 }
 
 .ace_marker-layer .ace_selection {
-  background: #362b52;
+  background: #201931;
 }
 
 .ace_selection.ace_start {
